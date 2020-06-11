@@ -3,3 +3,5 @@ The aim of this project was to show how it is possible to automatically acquire 
 
 Download file and make sure you have OpenCV and NumPy libraries installed on IDE
 Images are available in 'PICTURES' folder
+
+Project report available via request - shivash.mishra@gmail.com 
